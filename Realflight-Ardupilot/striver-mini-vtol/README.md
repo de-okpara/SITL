@@ -3,7 +3,7 @@ Striver mini VTOL is a 7kg vertical take-off and landing fixed wing UAV manufact
 
 ![Striver mini VTOL](./CAD/strivermini.png)
 
-I created this Realflight model for use with Ardupilot SITL from public information provided by Makeflyeasy on the Striver mini VTOL and simulation endurance test results match closely with endurance flight test results provided by manufacturer.
+I created this CAD and Realflight model for use with Ardupilot SITL from public information provided by Makeflyeasy on the Striver mini VTOL and simulation endurance test results match closely with endurance flight test results provided by manufacturer.
 
 ![Striver mini VTOL CAD](./CAD/strivercad.png)
 
@@ -18,7 +18,7 @@ I created this Realflight model for use with Ardupilot SITL from public informat
 * Max. Takeoff Weight - 7.5kg
 
 #### Original Aircraft       - [Makeflyeasy](https://en.makeflyeasy.com/index.php/striver-mini-vtol/)
-#### RealFlight 3D Model     - [Ekene Okpara](www.linkedin.com/in/ekene-okpara-188856199)
+#### CAD & RealFlight 3D Model     - [Ekene Okpara](www.linkedin.com/in/ekene-okpara-188856199)
 
 ## ArduPilot Servo Functions
 * Servo1 - Aileron
