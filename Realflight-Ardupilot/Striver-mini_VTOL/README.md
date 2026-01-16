@@ -29,3 +29,9 @@ I created this CAD and Realflight model for use with Ardupilot SITL from public 
 * Servo6 - Motor2
 * Servo7 - Motor3
 * Servo8 - Motor4
+
+### Other Ardupilot Settings
+* Arm/Disarm with Rudder
+* Flight mode channel - RC8: QSTABILIZE, QLOITER, FBWA.
+
+Tested in RealFlight Evolution using ArduPlane V4.6.2
